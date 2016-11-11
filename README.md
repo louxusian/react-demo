@@ -5,7 +5,8 @@ https://github.com/kdchang/reactjs101/blob/master/Ch09/react-router-redux-github
 
 
 ## How to run
-```
+
+``` bash
 # install dependencies
 npm install
 
