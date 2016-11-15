@@ -1,5 +1,5 @@
 import { connect } from 'react-redux';
-import ResultPage from '../../components/ResultPage/ResultPage.js';
+import ResultPage from '../../components/ResultPage/ResultPage';
 
 export default connect(
     (state) => ({

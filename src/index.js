@@ -4,10 +4,10 @@ import { Provider } from 'react-redux';
 import { browserHistory, Router, Route, IndexRoute } from 'react-router';
 import injectTapEventPlugin from 'react-tap-event-plugin';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
-import Main from './components/Main/Main.js';
-import HomePage from './containers/HomePage/HomePage.js';
-import ResultPage from './containers/ResultPage/ResultPage.js';
-import store from './store/configureStore.js';
+import Main from './components/Main/Main';
+import HomePage from './containers/HomePage/HomePage';
+import ResultPage from './containers/ResultPage/ResultPage';
+import store from './store/configureStore';
 
 // 引入 react-tap-event-plugin 避免 material-ui onTouchTap event 會遇到的問題
 // Needed for onTouchTap

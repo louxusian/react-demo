@@ -1,5 +1,5 @@
 import React from 'react';
-import GithubBox from '../../components/GithubBox/GithubBox.js';
+import GithubBox from '../../components/GithubBox/GithubBox';
 
 const ResultPage = (props) => (
     <div>

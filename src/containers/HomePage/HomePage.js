@@ -1,5 +1,5 @@
 import { connect } from 'react-redux';
-import HomePage from '../../components/HomePage/HomePage.js';
+import HomePage from '../../components/HomePage/HomePage';
 
 import {
     getGithub,
