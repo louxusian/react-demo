@@ -1,4 +1,4 @@
-React test
+React demo
 ==========
 A simple GitHub Finder created according to this source (without using eslint) to learn React
 https://github.com/kdchang/reactjs101/blob/master/Ch09/react-router-redux-github-finder.md
